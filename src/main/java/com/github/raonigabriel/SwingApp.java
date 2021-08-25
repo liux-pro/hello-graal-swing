@@ -36,7 +36,7 @@ public class SwingApp {
 	 */
 	private void initialize() {
 		frmHelloGraalSwin = new JFrame();
-		frmHelloGraalSwin.setTitle("Hello Graal Swing");
+		frmHelloGraalSwin.setTitle("Hello Graal Swing!");
 		frmHelloGraalSwin.setBounds(100, 100, 450, 300);
 		frmHelloGraalSwin.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
